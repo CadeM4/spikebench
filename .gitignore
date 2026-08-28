@@ -1,0 +1,4 @@
+spikebench_hits/
+__pycache__/
+*.py[cod]
+.ruff_cache/
